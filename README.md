@@ -1,3 +1,25 @@
+# --- @rorysaur's solution ---
+
+This repo is an exercise I did as part of [Josh Comeau's course, CSS for
+JavaScript Developers](https://css-for-js.dev/).
+
+The following are screenshots of what my solution looks like on my machine.
+
+Desktop:
+
+<img alt="Desktop-sized screenshot of an agency landing page" src="./docs/rorysaur/desktop.png" style="" />
+
+Tablet:
+
+<img alt="Tablet-sized screenshot of an agency landing page" src="./docs/rorysaur/tablet.png" style="max-width: 400px;" />
+
+Mobile:
+
+<img alt="Mobile-sized screenshot of an agency landing page" src="./docs/rorysaur/mobile.png" style="max-width: 300px;" />
+
+# --- end of section ---
+
+
 # Huckleberry Agency Website
 
 In this workshop, you'll build a minimal landing page for an agency.
